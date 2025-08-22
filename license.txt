@@ -1,0 +1,33 @@
+End-User License Agreement (EULA)
+
+Copyright (c) 2025 SmauDistribution
+
+1. Grant of License
+Permission is granted to any individual or organization to install and use this software, free of charge, for both personal and commercial purposes. 
+This license is non-transferable and applies only to the original user or organization that obtained the software.
+
+2. Restrictions
+- Redistribution, modification, resale, or sublicensing of this software, in whole or in part, is not permitted without prior written permission from the copyright holder.
+- Users are not permitted to reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of this software.
+- This software may not be used for any unlawful, harmful, or malicious activity.
+
+3. License Changes
+The copyright holder reserves the right to change, update, or replace the terms of this license at any time. It is the responsibility of the user to remain informed of and comply with the latest version of this license, regardless of whether the software is updated.
+
+4. Termination
+Any violation of the terms of this license will result in its immediate termination, and the user must cease all use of the software.
+
+5. Disclaimer of Warranty
+This software is provided "as is," without warranty of any kind, express or implied. The copyright holder makes no guarantees regarding functionality, fitness for a particular purpose, or non-infringement.
+
+6. Limitation of Liability
+In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of this software, including but not limited to data loss, system failure, or misuse of the software.
+
+7. Compliance with Laws
+The user agrees to comply with all applicable laws and regulations regarding the use of this software, including restrictions on export and re-export.
+
+8. Updates
+The software may include automatic update functionality, and the user agrees that future updates may be subject to revised license terms.
+
+9. Governing Law
+This agreement shall be subject to applicable law.
